@@ -94,6 +94,38 @@ text
 
 ---
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+![Landing Page](screenshots/01_landing.png)
+
+### 📊 Dashboard Overview
+![Dashboard Overview](screenshots/02_overview.png)
+
+### 🤖 AI Engine — Isolation Forest Detection
+![AI Engine](screenshots/03_ai_engine.png)
+
+### 🕸️ Criminal Network Graph
+![Network Graph](screenshots/04_network_graph.png)
+
+### 🔗 Entity Explorer
+![Entity Explorer](screenshots/05_entities.png)
+
+### 📄 Forensic Report Generation
+![Forensic Report](screenshots/06_report.png)
+
+### ⚡ Time Saved Analysis
+![Time Saved](screenshots/07_time_saved.png)
+
+### ⚠️ Pattern Detection
+![Pattern Detection](screenshots/08_patterns.png)
+
+---
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
