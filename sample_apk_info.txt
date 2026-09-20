@@ -1,0 +1,23 @@
+APK Analysis Target: Fake_SBI_KYC.apk
+Package: com.sbi.secure.kyc
+Version: 1.0.0
+Size: 2.4 MB
+SHA-256: 4a8b2c1d9e3f5a7b6c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b
+
+Permissions:
+- android.permission.READ_SMS
+- android.permission.RECEIVE_SMS
+- android.permission.ACCESSIBILITY_SERVICE
+- android.permission.READ_CONTACTS
+- android.permission.SYSTEM_ALERT_WINDOW
+- android.permission.INTERNET
+- android.permission.REQUEST_INSTALL_PACKAGES
+
+Embedded URLs:
+- http://sbi-kyc-update.xyz/api/upload
+- http://185.70.40.5/c2/command
+- https://fake-sbi-portal.tk/verify
+- http://bit.ly/3xYzAbC
+
+Certificate: Self-signed (CN=Android Debug)
+Signing Key: DEBUG_KEY

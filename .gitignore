@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Database
+*.db
+*.sqlite
+drishit_cases.db
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Generated files
+network_graph.html
+*.pptx
+Void Hacks*
+
+# Temp
+*.tmp

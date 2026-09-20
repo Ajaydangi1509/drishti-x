@@ -1,0 +1,25 @@
+From: "CBI Officer" <fake-cbi@secure-gov.in>
+Reply-To: cbi-recovery@protonmail.com
+To: victim@email.com
+Subject: URGENT: Arrest Warrant - Immediate Action Required
+Date: Mon, 14 Sep 2026 01:15:00 +0530
+Message-ID: <abc123@fake-domain.com>
+Received: from mail.protonmail.com (unknown [185.70.40.5])
+    by mail.email.com with ESMTP id xyz
+    for <victim@email.com>; Mon, 14 Sep 2026 01:15:02 +0530
+Authentication-Results: mail.email.com;
+    spf=fail (sender IP not authorized) smtp.mailfrom=secure-gov.in;
+    dkim=none; dmarc=fail
+X-Originating-IP: [185.70.40.5]
+Return-Path: bounce@random-domain.xyz
+
+Dear Citizen,
+
+Your Aadhaar is linked to money laundering case #CBI/2026/4521.
+Immediately transfer ₹95,000 to secure account:
+Account: HDFC0045678
+IFSC: HDFC0001234
+
+Failure to comply will result in immediate arrest.
+
+CBI Cyber Cell
